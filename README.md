@@ -1,13 +1,12 @@
-## 👨‍💻 Gerente de Projetos de Software | 🎓 Estudante de Ciência de Dados | 🌎 Brasil
+## 👨‍💻 Software Development Project Manager | 🎓 Data Science Student | 🌎 Brazil
 
-Apaixonado por transformar ideias em código e projetos em realidade. 🚀 Trabalho com jovens talentos, mestres e doutores, criando soluções inovadoras para o público e o privado.
+Passionate about turning ideas into code and projects into reality. 🚀 Working with young talents, masters, and PhDs to create innovative solutions for public and private sectors.
 
-📚 Formado em Administração de Sistemas de Informação, agora explorando as maravilhas da Ciência de Dados.
+📚 Graduated in Information Systems Administration, now diving into the wonders of Data Science.
 
-Fora do código: 💬 Mentoria e Coaching | 🎧 Música para focar | 🏖️ Amante de uma boa praia
+Off the code: 💬 Coaching & Mentoring interns | 🎧 Music for focus | 🏖️ Beach enthusiast
 
-🔗 Conecte-se comigo para trocar ideias e criar algo incrível juntos!
-
+🔗 Connect with me to exchange ideas and create something amazing together!
 
 
 ![cassantos's Stats](https://github-readme-stats.vercel.app/api?username=cassantos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
