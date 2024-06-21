@@ -8,6 +8,10 @@ Off the code: 💬 Coaching & Mentoring interns | 🎧 Music for focus | 🏖️
 
 🔗 Connect with me to exchange ideas and create something amazing together!
 
+<p align="centered">
+  <img align="center" height="927" width="965" src="https://github.com/cassantos/cassantos/assets/49575263/0219c18b-39a4-45de-8119-048dc3b1fe9a" alt="Imagem">
+</p>
+<!-- ![amazing_futuristic_computer_setup_ia](https://github.com/cassantos/cassantos/assets/49575263/0219c18b-39a4-45de-8119-048dc3b1fe9a)-->
 
 ![cassantos's Stats](https://github-readme-stats.vercel.app/api?username=cassantos&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![cassantos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cassantos&theme=tokyonight&hide_border=true)
